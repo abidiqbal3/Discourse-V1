@@ -1,0 +1,23 @@
+{
+  "scripts": [
+    {
+      "scriptChunks": [
+        "assets/chunk.vendors-node_modules_discourse_itsatrap_itsatrap_js-node_modules_popperjs_core_lib_index_js-n-f29bc5.9924f1771553603a578f.js",
+        "assets/chunk.app.b6813bd59888be62cd0f.js"
+      ],
+      "bundleName": "app",
+      "afterFile": "assets/vendor.js",
+      "inserted": false
+    },
+    {
+      "scriptChunks": [
+        "assets/chunk.vendors-node_modules_pretender_dist_pretender_es_js-node_modules_qunit_qunit_qunit_js-node_mo-a05e2f.0567408334ce6e9ed43d.js",
+        "assets/chunk.tests.2bd6a894610664499e61.js"
+      ],
+      "bundleName": "tests",
+      "afterFile": "assets/test-support.js",
+      "inserted": false
+    }
+  ],
+  "styles": []
+}

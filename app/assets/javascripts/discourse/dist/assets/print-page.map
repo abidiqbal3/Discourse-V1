@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/print-page.js"],"sourcesContent":["document.addEventListener(\"DOMContentLoaded\", function () {\n  window.print();\n});\n"],"names":["document","addEventListener","window","print"],"mappings":"AAAAA,QAAQ,CAACC,gBAAT,CAA0B,kBAA1B,EAA8C,YAAY;EACxDC,MAAM,CAACC,KAAP;AACD,CAFD;","file":"print-page.js"}
